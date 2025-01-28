@@ -6,8 +6,7 @@ common
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: Arial, Helvetica, sans-serif;   
 }
 
 /*****
@@ -16,8 +15,7 @@ header
 
 .logo {
     padding-top: 10px;
-    padding-left: 18px;
-    
+    padding-left: 18px;    
 }    
 
 #titolo {
@@ -30,12 +28,15 @@ header
 main
 *****/
 
+/*****
+main containers
+*****/
+
 .container-grey {
     background-color: #f6f8f9;
     margin: 50px;
     padding: 40px 170px;
-    border-radius: 5px;
-    
+    border-radius: 5px;   
 }
 
 .container-button {
@@ -43,9 +44,25 @@ main
     border-radius: 5px;
     padding: 20px 50px;
     margin-bottom: 10px;
-
 }
 
+.container-body{
+
+    background-color: white;
+    
+    border-radius: 5px;
+    padding: 10px 50px;
+    margin-bottom: 20px;    
+}
+
+/*****
+main containers
+*****/
+
+
+/*****
+button
+*****/
 button {
     border-radius: 4px;
 }
@@ -55,8 +72,7 @@ button {
     color: #ffffff;
     border-radius: 6px;
     border-color: #14aaf5;
-    padding: 9px 9px;
-    
+    padding: 9px 9px;   
 }
 
 #add-selection{
@@ -67,15 +83,13 @@ button {
     padding: 9px 9px;
 }
 
-.container-body{
+/*****
+button
+*****/
 
-    background-color: white;
-    
-    border-radius: 5px;
-    padding: 10px 50px;
-    margin-bottom: 20px;
-    
-}
+/*****
+section class and id
+*****/
 
 .editorial {
     background-color: #09a9ed;
@@ -94,8 +108,7 @@ button {
 }
 
 .upcoming {
-    padding-top: 30px;
-    
+    padding-top: 30px;  
 }
 
 #Q1 {
@@ -137,6 +150,7 @@ button {
     border-radius: 5px;
     font-size: 11px;
     padding: 6px 6px;
-
 }
-
+/*****
+section class and id
+*****/
