@@ -51,14 +51,62 @@ button {
 
 .container-body{
     padding-left: 170px;
-    padding-top: 35px;
+    padding-top: 10px;
     background-color: white;
     
 }
 
-#editorial {
+.editorial {
     background-color: aqua;
     color: white;
     border-radius: 3px;
     font-size: 11px;
+}
+
+.new-task{
+    padding-top: 25px;
+}
+
+.today{
+    padding-top: 30px;
+}
+
+#Q1 {
+    background-color: rgb(255, 11, 222);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+#recruiting {
+    background-color: rgb(15, 255, 75);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+#mobile {
+    background-color: rgb(241, 170, 17);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+.upcoming{
+    padding-top: 30px;
+}
+
+#website{
+    background-color: rgb(187, 126, 159);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 11px;
+}
+
+#sales{
+    background-color: rgb(107, 226, 28);
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 11px
+
 }
