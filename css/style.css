@@ -49,6 +49,22 @@ button {
     border-radius: 4px;
 }
 
+#add-task{
+    background-color: #14aaf5;
+    color: #ffffff;
+    border-radius: 2px;
+    border-color: #14aaf5;
+    
+}
+
+#add-selection{
+    background-color: #ffffff;
+    color: #d4d9dd;
+    border-radius: 2px;
+    border-color: #c4cbd0;
+
+}
+
 .container-body{
     padding-left: 170px;
     padding-top: 10px;
