@@ -32,13 +32,10 @@ main
 
 .container-grey {
     background-color: #f6f8f9;
-    margin: 50px auto;
+    margin: 50px;
     padding: 40px 170px;
     border-radius: 5px;
-    border-left: 170px;
-
     
-
 }
 
 .container-button {
@@ -56,17 +53,18 @@ button {
 #add-task{
     background-color: #14aaf5;
     color: #ffffff;
-    border-radius: 2px;
+    border-radius: 6px;
     border-color: #14aaf5;
+    padding: 9px 9px;
     
 }
 
 #add-selection{
     background-color: #ffffff;
     color: #d4d9dd;
-    border-radius: 2px;
+    border-radius: 6px;
     border-color: #c4cbd0;
-
+    padding: 9px 9px;
 }
 
 .container-body{
@@ -82,54 +80,63 @@ button {
 .editorial {
     background-color: #09a9ed;
     color: white;
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 11px;
+    padding: 6px 6px;
 }
 
 .new-task{
-    padding-top: 25px;
+    padding-top: 40px;
 }
 
-.today{
+.today  {
     padding-top: 30px;
+}
+
+.upcoming {
+    padding-top: 30px;
+    
 }
 
 #Q1 {
     background-color: #ab5de6;
     color: rgb(255, 255, 255);
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 11px;
+    padding: 6px 6px;
 }
 
 #recruiting {
     background-color: #2cc6ab;
     color: rgb(255, 255, 255);
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 11px;
+    padding: 6px 6px;
 }
 
 #mobile {
     background-color: #ff9b00;
     color: rgb(255, 255, 255);
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 11px;
+    padding: 6px 6px;
 }
 
-.upcoming{
-    padding-top: 30px;
-}
 
 #website{
     background-color: #ec4a9d;
     color: rgb(255, 255, 255);
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 11px;
+    padding: 6px 6px;
 }
 
 #sales{
     background-color: #a3d116;
     color: rgb(255, 255, 255);
-    border-radius: 3px;
-    font-size: 11px
+    border-radius: 5px;
+    font-size: 11px;
+    padding: 6px 6px;
 
 }
+
