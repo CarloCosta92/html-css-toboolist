@@ -31,7 +31,7 @@ main
 *****/
 
 .container-grey {
-    background-color: grey;
+    background-color: #f6f8f9;
     display: inline-block;
 
 }
@@ -57,7 +57,7 @@ button {
 }
 
 .editorial {
-    background-color: aqua;
+    background-color: #09a9ed;
     color: white;
     border-radius: 3px;
     font-size: 11px;
@@ -72,21 +72,21 @@ button {
 }
 
 #Q1 {
-    background-color: rgb(255, 11, 222);
+    background-color: #ab5de6;
     color: rgb(255, 255, 255);
     border-radius: 3px;
     font-size: 11px;
 }
 
 #recruiting {
-    background-color: rgb(15, 255, 75);
+    background-color: #2cc6ab;
     color: rgb(255, 255, 255);
     border-radius: 3px;
     font-size: 11px;
 }
 
 #mobile {
-    background-color: rgb(241, 170, 17);
+    background-color: #ff9b00;
     color: rgb(255, 255, 255);
     border-radius: 3px;
     font-size: 11px;
@@ -97,14 +97,14 @@ button {
 }
 
 #website{
-    background-color: rgb(187, 126, 159);
+    background-color: #ec4a9d;
     color: rgb(255, 255, 255);
     border-radius: 3px;
     font-size: 11px;
 }
 
 #sales{
-    background-color: rgb(107, 226, 28);
+    background-color: #a3d116;
     color: rgb(255, 255, 255);
     border-radius: 3px;
     font-size: 11px
