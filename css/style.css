@@ -32,16 +32,20 @@ main
 
 .container-grey {
     background-color: #f6f8f9;
-    display: inline-block;
+    margin: 50px auto;
+    padding: 40px 170px;
+    border-radius: 5px;
+    border-left: 170px;
+
+    
 
 }
 
 .container-button {
     background-color: white;
-    text-align: center;
-    display: inline-block;
-    padding-top: 45px;
-    padding-left: 170px;
+    border-radius: 5px;
+    padding: 20px 50px;
+    margin-bottom: 10px;
 
 }
 
@@ -66,9 +70,12 @@ button {
 }
 
 .container-body{
-    padding-left: 170px;
-    padding-top: 10px;
+
     background-color: white;
+    
+    border-radius: 5px;
+    padding: 10px 50px;
+    margin-bottom: 20px;
     
 }
 
