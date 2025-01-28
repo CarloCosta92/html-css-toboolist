@@ -28,3 +28,8 @@ header
 /*****
 main
 *****/
+
+.container-grey {
+    background-color: grey;
+    height: 636px;
+}
